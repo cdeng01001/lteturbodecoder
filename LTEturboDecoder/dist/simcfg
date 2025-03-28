@@ -1,0 +1,8 @@
+# simple config file for LTE turbo decoder demo
+# SNR line is next
+3.0
+# max frame errors
+20
+# max frames to simulate
+10000
+
